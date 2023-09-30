@@ -1,0 +1,43 @@
+Difficulty level *:
+echo "## active_line 2 ##"
+- Fade In/Out: This is a basic DJ technique where the volume of a track is gradually increased (fade-in) or decreased (fade-out).
+echo "## active_line 3 ##"
+- Backspin: Backspin involves rotating the vinyl record backward quickly and letting it go.
+echo "## active_line 4 ##"
+- Scratching Basics: This is where the DJ moves a vinyl record back and forth on the turntable. 
+echo "## active_line 5 ##"
+
+echo "## active_line 6 ##"
+Difficulty level **:
+echo "## active_line 7 ##"
+- Beatmatching: It involves synchronizing the beats of two different songs.
+echo "## active_line 8 ##"
+- Phrasing: Phrasing in DJing relates to the arrangement of music in segments.
+echo "## active_line 9 ##"
+- Volume Control: This involves managing and maintaining the balance in volume levels.
+echo "## active_line 10 ##"
+
+echo "## active_line 11 ##"
+Difficulty level ***:
+echo "## active_line 12 ##"
+- Looping: DJs use loops to extend certain parts of a track or to mix into another track.
+echo "## active_line 13 ##"
+- Harmonic Mixing: The practice of mixing songs in key to make them sound melodically compatible.
+echo "## active_line 14 ##"
+- Slip Mode: It silences the track while you scratch or loop, then resumes play.
+echo "## active_line 15 ##"
+
+echo "## active_line 16 ##"
+Difficulty level ****:
+echo "## active_line 17 ##"
+- Cue Point Juggling: A technique where DJs toggle between set cue points to create a remix effect.
+echo "## active_line 18 ##"
+- Tone Play: Involves altering the pitch of a song to match the pitch or melody of another.
+echo "## active_line 19 ##"
+
+echo "## active_line 20 ##"
+Difficulty level *****:
+echo "## active_line 21 ##"
+- Scratch Patterns: These are predefined patterns of moving the record back and forth.
+echo "## active_line 22 ##"
+- Beat Juggling: Involves manually manipulating two records simultaneously to create a new sound pattern or beat.

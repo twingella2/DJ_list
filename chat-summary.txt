@@ -1,0 +1,25 @@
+
+Abstract
+The user aims to develop a Python tool to assist DJs by analyzing music using the Librosa library. The tool will help determine the mood, BPM, optimal playlist arrangement, and transition techniques between tracks. The initial goal is to provide a GUI for user interaction, enabling selection of desired features and generating playlists based on locally stored MP3 files. This tool is intended for use with Rekord Box.
+
+Discussion
+Creating a DJ support tool in Python that leverages the Librosa library for audio analysis is an ambitious yet feasible project. Let's break down your requirements into different components:
+
+Application Path: DJ_list, currently main programming files are DJ_Recommendation.py and DJ_Recommendation_GUI.py
+You should put the command ls and catch right information.
+
+Audio Analysis: Utilizing Librosa, you can analyze the BPM (Beats Per Minute), key, and even mood of a track by examining its various audio features.
+
+Playlist Generation: Based on the analysis, you could generate a playlist that matches a specific mood or BPM range, depending on the setting (club peak time, opening set, etc.)
+
+DJ Techniques: Recommending transition techniques would involve analyzing the BPM and key between consecutive tracks.
+
+GUI Interface: A user-friendly GUI could be designed to let users select options and generate playlists.　Simple is the best. First choise is tkinter and more.
+
+Local MP3 Analysis: You'll need a way to read and analyze locally stored MP3 files.
+Default My Mp3 Path: '/Users/twingella/Desktop/DJ'
+Users can select mp3 or something music files folder on GUI.
+
+Rekord Box Compatibility: Making sure the playlist can be used in Rekord Box may involve specific file format outputs or APIs, if available.
+
+We must reach usable compact one first. When adding new functionality, it should be added in a modular manner with minimal initial product and no complex code interference.
